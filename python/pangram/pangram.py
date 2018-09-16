@@ -7,4 +7,3 @@ def is_pangram(sentence):
         if letter not in sentence:
             return False
     return True
-

@@ -10,7 +10,6 @@ Abstract data types are the specifications and data structures are the concrete 
 |  dictionary / hashmap | array
 
 
-
 ## Arrays: data structures
 
 - Advantages:

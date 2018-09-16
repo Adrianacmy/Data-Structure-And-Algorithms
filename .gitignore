@@ -1,2 +1,6 @@
 .idea
 __pycache__/
+cpp/
+.pytest_cache
+.vscode
+
